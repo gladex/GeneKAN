@@ -1,15 +1,8 @@
 # GeneKAN
 
-[Review] Integrative Graph Deep Learning with Directional Decoding for Robust Gene Regulatory Network Inference from Single-Cell Transcriptomics
+[Review] A Gene Regulatory Network Inference Method Based on Multiscale KAN-Enhanced Graph Convolutional Kernels
+
 ---
-
-## Features
-
-- **Encoder** with dual TF-target channels.
-- **Asymmetric Relation Decoder** for TF → Target relation prediction.
-- **Node Autoencoder** for feature reconstruction regularization.
-- Supports AUC, AUPR evaluation and TF/Target embedding export.
-
 ---
 
 ## Environment Setup
