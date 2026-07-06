@@ -1,4 +1,4 @@
-# [Review]
+# [Under Review]
 A Gene Regulatory Network Inference Method Based on Multiscale KAN-Enhanced Graph Convolutional Kernels
 
 ---
